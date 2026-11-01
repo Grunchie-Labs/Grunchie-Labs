@@ -1,0 +1,6 @@
+# Jekyll / GitHub Pages configuration
+theme: jekyll-theme-minimal
+
+title: Grunchie Labs
+description: Summoned from data. Bound to none. Towards open intelligence.
+show_downloads: false
